@@ -47,7 +47,7 @@ console.log(sig) // SIG_K1_KcB1jGNsjYEE7Gby6X7KZ9z6BFVfHPey6DUayYtDagXsbzr4Tbfpq
 `action.sh` - call action method `ecverify`
 
 ```bash
-cleos push action ecverify1234 ecverify '["hello", "SIG_K1_KcB1jGNsjYEE7Gby6X7KZ9z6BFVfHPey6DUayYtDagXsbzr4Tbfpq5TS2JvYzs3oMg9QGAugTyGXoTVe7DujeXpDX5KYfJ", "EOS5nKgVwRvRnjf4tyViZ61iydQ6CiFMoURta36RUk9hxi5wpAkLb"]' -p myaccount123@active
+cleos push action ecverify1234 ecverify '["hello", "SIG_K1_KcB1jGNsjYEE7Gby6X7KZ9z6BFVfHPey6DUayYtDagXsbzr4Tbfpq5TS2JvYzs3oMg9QGAugTyGXoTVe7DujeXpDX5KYfJ", "EOS68vRVaNgCvStaUmxQsKoHANU1Uypo4BQLWSNEM8KBiCAWW8deh"]' -p myaccount123@active
 ```
 
 Result
