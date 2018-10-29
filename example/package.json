@@ -1,0 +1,15 @@
+{
+  "name": "ecverify",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'TODO'"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "eosjs-ecc": "^4.0.4"
+  }
+}
