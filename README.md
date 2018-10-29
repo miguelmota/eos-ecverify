@@ -1,4 +1,4 @@
-EOS ECDSA Verify
+# EOS ECDSA Verify
 
 > EOS smart contract that does ECDSA verification.
 
